@@ -48,5 +48,4 @@ func main() {
 		androidMobile: androids,
 	}
 	client.chargeMobile(androidAdapter)
-	main.goC:\Users\anujj\OneDrive\Desktop\design_patterns\adapter\main.go
 }
